@@ -1,0 +1,6 @@
+pydantic
+requests
+python-dotenv
+langchain
+langchain-community 
+langchain-core
